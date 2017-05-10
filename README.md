@@ -10,4 +10,4 @@
 
 ## 界面截图
 
-![Alt Text](https://github.com/walsvid/mipsasm/raw/master/doc/v0.1.0.png)
+![](http://ww1.sinaimg.cn/large/006rfyOZly1ffgmva18woj316x0ke0vl.jpg)
