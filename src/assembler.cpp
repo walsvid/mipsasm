@@ -147,6 +147,7 @@ Assembler::Assembler()
 
 QString Assembler::Compile(QString &stringNeedCompile)
 {
+    resultList.clear();
     QStringList            listOfStringNeedCompile = Lexer(stringNeedCompile);
     QListIterator<QString> itr(listOfStringNeedCompile);
     while (itr.hasNext())
