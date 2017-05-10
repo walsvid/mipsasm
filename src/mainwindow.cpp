@@ -7,7 +7,9 @@ MainWindow::MainWindow()
 {
     QWidget *widget = new QWidget();
     QHBoxLayout *layout = new QHBoxLayout;
-
+    QFont monofont("monospace");
+    textEdit->setFont(monofont);
+    assemblyText->setFont(monofont);
     layout->addWidget(textEdit);
     layout->addWidget(assemblyText);
     widget->setLayout(layout);

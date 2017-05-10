@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
 //    parser.process(app);
 
     MainWindow mainWin;
-    mainWin.resize(640, 512);
+    mainWin.resize(1000, 600);
 //    if (!parser.positionalArguments().isEmpty())
 //        mainWin.loadFile(parser.positionalArguments().first());
     mainWin.show();
