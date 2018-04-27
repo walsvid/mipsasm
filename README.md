@@ -1,6 +1,8 @@
 # mipsasm
 ![](https://img.shields.io/badge/qt-5.10.1-brightgreen.svg) ![](https://img.shields.io/badge/macOS-10.13.4-blue.svg)
-一个简单的 MIPS 汇编器，吧汇编语句转换成二进制的01字符串
+
+## 简介
+一个简单的 MIPS 汇编器，能够将汇编语句转换成二进制的01字符串
 
 ## 功能
 
