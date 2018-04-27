@@ -1,5 +1,6 @@
 # mipsasm
-一个简单的 MIPS 汇编器
+![](https://img.shields.io/badge/qt-5.10.1-brightgreen.svg) ![](https://img.shields.io/badge/macOS-10.13.4-blue.svg)
+一个简单的 MIPS 汇编器，吧汇编语句转换成二进制的01字符串
 
 ## 功能
 
@@ -10,4 +11,4 @@
 
 ## 界面截图
 
-![](http://ww1.sinaimg.cn/large/006rfyOZly1ffgmva18woj316x0ke0vl.jpg)
+![](https://i.loli.net/2018/04/27/5ae32b64d8cfc.png)
